@@ -1,0 +1,6 @@
+# Direct dependencies; Python 3.12 is recommended.
+# These pins are a reviewed starting point, not a fully resolved lockfile.
+crewai[litellm]==1.15.40
+streamlit==1.67.0
+ddgs==9.16.1
+python-dotenv==1.2.4
